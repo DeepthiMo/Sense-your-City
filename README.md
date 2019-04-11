@@ -7,6 +7,8 @@ For this project *I will be using data from sensors located in San Francisco.*
 ##Context: Why is analyzing data from local sensors important:
 Over past few decades, significant measures have been taken to diminish the effects of concentrated amounts of poisonous gases emitted by chemical factories.
 
+$ pip install
+
 However, we don’t yet completely understand how significantly we are affected by Urban air pollution both short term and long term. A lot of evidence such as [here](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2721876/) and [here](http://www.ncbi.nlm.nih.gov/pubmed/17463411) suggest we should take a much closer look the Urban air pollution data. 
 
 In the context of densely populated Urban residential areas, it is important to consider local data. Specifics of geography, traffic etc play an important role in the persistence and severity of the pollution. For example, in warm and sunny climates with surrounding hills, air in the upper atmosphere can become warm enough to inhibit vertical air circulation and the dispersion of air pollutants, trapping smog in the lower atmosphere. 
